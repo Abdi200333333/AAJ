@@ -1,3 +1,4 @@
 1. Första installerar man Proxmox på servern
 2. WindowsServer2025 instaleras
-3.
+3.Sen installerar man AD DS, DNS och DHCP
+
