@@ -1,4 +1,4 @@
-1. Första konfigurerar man router, koppla alla enheter och ge statisk IP
+1. Första konfigurerar man router, koppla alla enheter,ge statisk IP och skapa IP plan
 2. Sen installerar man Proxmox på servern
 3. WindowsServer2025 instaleras på Proxmox
 4. Sen installerar man AD DS, DNS och DHCP på Windows server
