@@ -1,5 +1,5 @@
 1. Första installerar man Proxmox på servern
-2. WindowsServer2025 instaleras
+2. WindowsServer2025 instaleras på Proxmox
 3. Sen installerar man AD DS, DNS och DHCP på Windows server
-4. Sen installerar man LAMP (Linux, Apache, MySQL/MariaDB, PHP) container på proxmox
+4. Sen installerar man LAMP (Linux, Apache, MySQL/MariaDB, PHP) container på Proxmox
 
